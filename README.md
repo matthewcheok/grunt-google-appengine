@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # grunt-google-appengine
 
 > Add tasks to Google App Engine.
@@ -87,3 +88,9 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 _(Nothing yet)_
+=======
+runt-google-appengine
+=====================
+
+Add tasks to Google App Engine.
+>>>>>>> 5ff9523f790a287c09ded0daffc04f9f97d820a2

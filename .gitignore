@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 node_modules
 npm-debug.log
 tmp
 
+=======
+>>>>>>> 5ff9523f790a287c09ded0daffc04f9f97d820a2
 lib-cov
 *.seed
 *.log
@@ -15,4 +18,8 @@ pids
 logs
 results
 
+<<<<<<< HEAD
 npm-debug.log
+=======
+npm-debug.log
+>>>>>>> 5ff9523f790a287c09ded0daffc04f9f97d820a2
